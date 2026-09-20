@@ -1,0 +1,1 @@
+html,body,#root{margin:0;width:100%;height:100%;background:#070a12}body{overflow:hidden}*{box-sizing:border-box}.app-shell{width:100vw;height:100vh;overflow:hidden}.physics-hero{width:100%;height:100%;position:relative}.physics-hero canvas{display:block;width:100%;height:100%}@media(prefers-reduced-motion:reduce){.physics-hero{opacity:.96}}
